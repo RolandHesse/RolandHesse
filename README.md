@@ -12,7 +12,7 @@ _Also:_
 !["Ceci n'est pas une pipe."](https://upload.wikimedia.org/wikipedia/en/b/b9/MagrittePipe.jpg)
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RolandHesse&show_icons=true&count_private=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RolandHesse&show_icons=true&count_private=true&theme=neon" align="center" /></div>  
 
 <br/>  
 
