@@ -7,4 +7,6 @@ My name is [Roland](https://de.wikipedia.org/wiki/Roland_(Vorname)), I am 39 yea
 - bouldering, and
 - spending time with my son.
 
-Ceci c'est !["Ceci n'est pas une pipe."](https://upload.wikimedia.org/wikipedia/en/b/b9/MagrittePipe.jpg)
+Ceci c'est
+
+!["Ceci n'est pas une pipe."](https://upload.wikimedia.org/wikipedia/en/b/b9/MagrittePipe.jpg)
