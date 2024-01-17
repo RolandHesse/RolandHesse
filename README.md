@@ -1,27 +1,16 @@
-# 🦈!
+# Hey there, nice to meet you! 😎
 
-_My name is [Roland](https://de.wikipedia.org/wiki/Roland_(Vorname)), I am 40 years [old](https://de.wikipedia.org/wiki/Alter), was born in [Mutlangen](https://de.wikipedia.org/wiki/Mutlangen), live in [Berlin](https://de.wikipedia.org/wiki/Berlin), and have one [child](https://de.wikipedia.org/wiki/Verwandtschaftsbeziehung#Kinder). My interests include_
+A philosopher by training, I recently switched careers and completed a [Web Dev Bootcamp](https://www.neuefische.de/bootcamp/web-development) at [neuefische](https://www.neuefische.de/).
+
+During the capstone phase, me and my team built a web app to efficiently store and organize code snippets. The app is built within the Next.js framework and is connected to a MongoDB-backend _via_ a handwritten API. The repo is pinned below.
+
+If you are interested in my work as a philosopher, you might want have to a look at [my book](https://www.amazon.de/Killing-Prevent-Killings-Restrictions-Justifiability/dp/3957431921).
+
+Other than philosophy and coding, my interests include
 
 - chess,
 - cycling,
 - bouldering, and
 - spending time with my son.
 
-_Also:_
-
-!["Ceci n'est pas une pipe."](https://upload.wikimedia.org/wikipedia/en/b/b9/MagrittePipe.jpg)
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RolandHesse&show_icons=true&count_private=true&theme=neon" align="center" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=RolandHesse&&style=flat-square" align="center" />
-</div>  
-
-<br />
-
-<p align="center">
-  <img src="https://media.giphy.com/media/yoJC2GnSClbPOkV0eA/giphy.gif"
-</p>
+Contact me at [rolandhesse11783@gmail.com](mailto:user@example.com)
